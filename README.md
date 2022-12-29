@@ -18,7 +18,21 @@
 
 ![](images/overview.png)
 
-## Step 1: 
+> We will be working with Solar Wind's tiecketing system but they all are **very similar**.
+
+## Tiecketing Dashboard
+
+The dashboard - this is your central hub in ticketing systems. If you’re familiar with any SIEM or Meraki then this page should be no stranger to you. The dashboard gives you a quick glance at the status of your incidents, how long they have been on the shelf, information on assets and SLA MANAGEMENT. 
+
+![](images/dashboard.png)
+
+## 
+
+![](images/dashboard.png)
+
+
+
+
 
 
 
