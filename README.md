@@ -26,9 +26,7 @@ The dashboard - this is your central hub in ticketing systems. If you’re famil
 
 ![](images/dashboard.png)
 
-## 
 
-![](images/dashboard.png)
 
 
 
