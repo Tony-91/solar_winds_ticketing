@@ -9,12 +9,16 @@
 * Solar Winds Service Desk
 
 ### What the heck is a ticketing system?
+* A ticketing system allows IT support to track, manage, speed up, and deal effectively with incidents. The ticketing software can automatically distribute and assign incidents to the right IT staff member. 
+* Service catalog standardizes service requests and fulfillment processes.
+* Some ticketing systems even come with SIEM and automation funtionaility!
 
-## Overview:
 
-![](images/.png)
+## Solar Winds Service Desk Overview:[FREE Trial](https://www.virtualbox.org/wiki/Downloads "Virtual Box")
 
+![](images/overview.png)
 
+## Step 1: 
 
 
 
