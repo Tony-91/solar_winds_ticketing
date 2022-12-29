@@ -14,7 +14,7 @@
 * Some ticketing systems even come with SIEM and automation funtionaility!
 
 
-## Solar Winds Service Desk Overview: [FREE Trial](https://www.virtualbox.org/wiki/Downloads "Virtual Box")
+## Solar Winds Service Desk Overview: [FREE Trial](https://www.solarwinds.com/service-desk)
 
 ![](images/overview.png)
 
