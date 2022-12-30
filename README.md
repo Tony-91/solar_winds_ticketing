@@ -42,8 +42,27 @@ Let’s take a look at the side panel on the home screen to explore some functio
 
 ![](images/risk.png)
 
+## Service Desk - New laptop request
 
+Lets take a closer look at a new laptop request ticket:
 
+![](images/newcom.png)
+
+Here we can see the details of the ticket request: the type of laptop, any additional hardware needed and the delivery time ETA. Further down we even see a Management Approval option.
+
+## Assets - Sample 2
+
+Under Assets > Sample 2 (computer example within Solar Winds) we see a detailed list of characteristics and hardware/software.
+
+![](images/sample2.png)
+
+Additionally, we can see the domain the computer is a member of, the product key, any tags associated with the machine and so much more.
+
+## Risk Management - Affected
+
+If we go back to our Risk Management tab we see two items -  *no antivirus* or *Free Disk Space <5%*. Under *Affected*, we can see the machines that are affected by the corresponding risk. Here we send an email notification or create a new incident.
+
+![](images/risky.png)
 
 
 
