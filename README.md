@@ -26,6 +26,22 @@ The dashboard - this is your central hub in ticketing systems. If you’re famil
 
 ![](images/dashboard.png)
 
+## Service Desk, Assets and Risk Management
+
+Let’s take a look at the side panel on the home screen to explore some functionality you will come across in some ticketing systems today.
+
+> Here we have SERVICE DESK: We can find incidents by category, priority and who has it been assigned to and by whom. We can also find problems, change control and solutions as well.
+
+![](images/desk.png)
+
+> Under ASSETS we find all our assets within in the company. Whether it’s hardware like computers and printers, or software like licensing fees you’ll find it all here.
+
+![](images/assets.png)
+
+> RISK MANAGEMENT gives you an overview at machines at risk - eg. *no antivirus* or *Free Disk Space <5%*
+
+![](images/risk.png)
+
 
 
 
