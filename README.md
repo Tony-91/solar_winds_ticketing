@@ -1,6 +1,6 @@
 # Ticketing Systems - IT Help Desk and Beyond   
 
-![](images/.png)
+![](images/61cf04c1ec15b5390aed45da_Benefits-of-Ticketing-Management-System.png)
 
 ### Learning Objectives:
 1. Ticketing systems - benefits, use cases and functionailties
