@@ -70,7 +70,7 @@ I encourage everyone to download this Solar Winds ticketing system and spend jus
 
 Three skills you’ll practice:
 1. DOCUMENTATION - detailed notes for your future self and fellow team mates.
-2. RESOURCEFULNESS - practice using the resource at hand - notes, previous solved tickets and co-workers to name a few.
+2. RESOURCEFULNESS - practice using the resource at hand - notes, previously solved tickets and co-workers to name a few.
 3. Looking like a boss talking ticketing systems during the interview.
 
 
