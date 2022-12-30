@@ -64,7 +64,14 @@ If we go back to our Risk Management tab we see two items -  *no antivirus* or *
 
 ![](images/risky.png)
 
+## Closing Thoughts
 
+I encourage everyone to download this Solar Winds ticketing system and spend just 15 minutes clicking buttons and looking around. Whether you’re breaking into the industry or a seasoned vet, everyone can benefit from ticketing system exposure. 
+
+Three skills you’ll practice:
+1. DOCUMENTATION - detailed notes for your future self and fellow team mates.
+2. RESOURCEFULNESS - practice using the resource at hand - notes, previous solved tickets and co-workers to name a few.
+3. Looking like a boss talking ticketing systems during the interview.
 
 
 
